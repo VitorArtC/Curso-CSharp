@@ -12,3 +12,4 @@ C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\01- Operadores Ar
 C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\01- Operadores Aritméticos\obj\Debug\net10.0\01- Operadores Aritméticos.pdb
 C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\01- Operadores Aritméticos\obj\Debug\net10.0\01- Operadores Aritméticos.genruntimeconfig.cache
 C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\01- Operadores Aritméticos\obj\Debug\net10.0\ref\01- Operadores Aritméticos.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\01- Operadores Aritméticos\obj\Debug\net10.0\01- Operadores Aritméticos.sourcelink.json
