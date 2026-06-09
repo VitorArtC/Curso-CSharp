@@ -1,0 +1,15 @@
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\bin\Debug\net10.0\Ex_02 - Par ou Impar.exe
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\bin\Debug\net10.0\Ex_02 - Par ou Impar.deps.json
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\bin\Debug\net10.0\Ex_02 - Par ou Impar.runtimeconfig.json
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\bin\Debug\net10.0\Ex_02 - Par ou Impar.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\bin\Debug\net10.0\Ex_02 - Par ou Impar.pdb
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\obj\Debug\net10.0\Ex_02 - Par ou Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\obj\Debug\net10.0\Ex_02 - Par ou Impar.AssemblyInfoInputs.cache
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\obj\Debug\net10.0\Ex_02 - Par ou Impar.AssemblyInfo.cs
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\obj\Debug\net10.0\Ex_02 - Par ou Impar.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\obj\Debug\net10.0\Ex_02 - Par ou Impar.sourcelink.json
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\obj\Debug\net10.0\Ex_02 - Par ou Impar.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\obj\Debug\net10.0\refint\Ex_02 - Par ou Impar.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\obj\Debug\net10.0\Ex_02 - Par ou Impar.pdb
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\obj\Debug\net10.0\Ex_02 - Par ou Impar.genruntimeconfig.cache
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\02- Estrutura Condicional\Ex_02 - Par ou Impar\obj\Debug\net10.0\ref\Ex_02 - Par ou Impar.dll
