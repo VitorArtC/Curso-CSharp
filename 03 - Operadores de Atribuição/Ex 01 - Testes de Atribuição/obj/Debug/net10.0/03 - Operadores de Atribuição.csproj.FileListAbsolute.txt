@@ -1,0 +1,30 @@
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\bin\Debug\net10.0\03 - Operadores de Atribuição.exe
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\bin\Debug\net10.0\03 - Operadores de Atribuição.deps.json
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\bin\Debug\net10.0\03 - Operadores de Atribuição.runtimeconfig.json
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\bin\Debug\net10.0\03 - Operadores de Atribuição.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\bin\Debug\net10.0\03 - Operadores de Atribuição.pdb
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.AssemblyInfoInputs.cache
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.AssemblyInfo.cs
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.sourcelink.json
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\obj\Debug\net10.0\refint\03 - Operadores de Atribuição.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.pdb
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.genruntimeconfig.cache
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\obj\Debug\net10.0\ref\03 - Operadores de Atribuição.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\bin\Debug\net10.0\03 - Operadores de Atribuição.exe
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\bin\Debug\net10.0\03 - Operadores de Atribuição.deps.json
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\bin\Debug\net10.0\03 - Operadores de Atribuição.runtimeconfig.json
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\bin\Debug\net10.0\03 - Operadores de Atribuição.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\bin\Debug\net10.0\03 - Operadores de Atribuição.pdb
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.AssemblyInfoInputs.cache
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.AssemblyInfo.cs
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.sourcelink.json
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\obj\Debug\net10.0\refint\03 - Operadores de Atribuição.dll
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.pdb
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\obj\Debug\net10.0\03 - Operadores de Atribuição.genruntimeconfig.cache
+C:\Users\Vitor Arthur\Documents\VSCode\C#\Curso Antônio Rocha\03 - Operadores de Atribuição\Ex 01 - Testes de Atribuição\obj\Debug\net10.0\ref\03 - Operadores de Atribuição.dll
