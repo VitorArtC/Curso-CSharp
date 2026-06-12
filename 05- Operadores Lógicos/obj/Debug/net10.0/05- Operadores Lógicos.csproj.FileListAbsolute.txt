@@ -1,0 +1,15 @@
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\bin\Debug\net10.0\05- Operadores Lógicos.exe
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\bin\Debug\net10.0\05- Operadores Lógicos.deps.json
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\bin\Debug\net10.0\05- Operadores Lógicos.runtimeconfig.json
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\bin\Debug\net10.0\05- Operadores Lógicos.dll
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\bin\Debug\net10.0\05- Operadores Lógicos.pdb
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\obj\Debug\net10.0\05- Operadores Lógicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\obj\Debug\net10.0\05- Operadores Lógicos.AssemblyInfoInputs.cache
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\obj\Debug\net10.0\05- Operadores Lógicos.AssemblyInfo.cs
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\obj\Debug\net10.0\05- Operadores Lógicos.csproj.CoreCompileInputs.cache
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\obj\Debug\net10.0\05- Operadores Lógicos.sourcelink.json
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\obj\Debug\net10.0\05- Operadores Lógicos.dll
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\obj\Debug\net10.0\refint\05- Operadores Lógicos.dll
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\obj\Debug\net10.0\05- Operadores Lógicos.pdb
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\obj\Debug\net10.0\05- Operadores Lógicos.genruntimeconfig.cache
+D:\Desktop\Vitor\Repositórios\Curso C#\Curso-CSharp\05- Operadores Lógicos\obj\Debug\net10.0\ref\05- Operadores Lógicos.dll
